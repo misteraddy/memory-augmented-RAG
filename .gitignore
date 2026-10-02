@@ -1,0 +1,5 @@
+.env
+ma_venv/
+__pycache__/
+*.py[cod]
+data/faiss/*.index

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+motor
+qdrant-client
+sentence-transformers
+pymupdf
+pydantic
+pydantic-settings
+python-dotenv
